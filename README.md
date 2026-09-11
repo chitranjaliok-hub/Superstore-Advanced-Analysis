@@ -161,6 +161,8 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
+```text
+
 Superstore-Advanced-Analysis/
 │
 ├── README.md
