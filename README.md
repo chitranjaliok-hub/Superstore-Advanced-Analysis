@@ -158,3 +158,17 @@ This project demonstrates:
 - Geospatial Analysis
 - Pareto Analysis
 - Business Insights
+
+Superstore-Tableau-Analysis/
+│
+├── README.md
+│
+├── Tableau/
+│   └── Superstore_Advanced_Analysis.twbx
+│
+└── Screenshots/
+    ├── Executive_Overview.png
+    ├── Profitability_Discount.png
+    ├── Sales_Growth_Regional.png
+    ├── Discount_Scenario.png
+    └── Customer_RFM.png
