@@ -159,7 +159,9 @@ This project demonstrates:
 - Pareto Analysis
 - Business Insights
 
-Superstore-Tableau-Analysis/
+## 📁 Project Structure
+
+Superstore-Advanced-Analysis/
 │
 ├── README.md
 │
